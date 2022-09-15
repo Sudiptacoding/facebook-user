@@ -1,0 +1,16 @@
+.user-container {
+    display: flex;
+    width: 100%;
+}
+.user-container-data{
+    /* background-color: tomato; */
+    width: 80%;
+    border: 2px solid black;
+}
+.user-container-card{
+    border: 2px solid black;
+    width: 20%;
+    margin-right: -39px;
+    margin-left: 1px;
+    
+}

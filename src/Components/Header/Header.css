@@ -1,0 +1,16 @@
+.header-container img{
+    height: 150px;
+}
+.header-container{
+    border: 2px solid lightgray;
+    box-shadow: inset 2px -2px 22px 0px grey;
+    background-color: white;
+}
+.header-container h1{
+    margin: 0px 0px 28px;
+    font-family: cursive;
+
+}
+.header-container{
+    text-align: center;
+}

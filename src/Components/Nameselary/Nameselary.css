@@ -1,0 +1,21 @@
+.Cd-profile{
+    display: flex;
+    align-items: center;
+    border: 1px solid lightgray;
+}
+.Cd-profile img{
+    width: 100px;
+}
+.Cd-sec{
+    margin-left: 5px;
+}
+.Cd-sec h5{
+    margin-top: 1px;
+}
+.Cd-sec p{
+    font-size: 13px;
+    font-weight: 700;
+    background-color: #f3d3cd;
+    padding: 5px;
+
+}
